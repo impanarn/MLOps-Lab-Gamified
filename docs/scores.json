@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T11:43:11.523498+00:00",
+  "generated_at": "2026-05-30T11:43:58.816001+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -77,7 +77,7 @@
   },
   "leaderboard": [
     {
-      "username": "JNSathyasri",
+      "username": "Dhanushm007",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -124,19 +124,17 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-30T11:43:11.383737+00:00",
+      "last_updated": "2026-05-30T11:43:58.815494+00:00",
       "status": "ok",
-      "total_xp": 12,
+      "total_xp": 10,
       "breakdown": [
         {
           "exercise": "ex01",
           "name": "Baseline Model",
           "emoji": "\ud83c\udfaf",
           "passed": true,
-          "xp": 12,
-          "bonuses": [
-            "\u2728 Flawless +2"
-          ],
+          "xp": 10,
+          "bonuses": [],
           "message": "Model trained. RMSE=3.21, R\u00b2=0.895"
         },
         {
@@ -215,7 +213,7 @@
       "rank": 1
     },
     {
-      "username": "Dhanushm007",
+      "username": "JNSathyasri",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -262,7 +260,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-30T11:43:11.292519+00:00",
+      "last_updated": "2026-05-30T11:43:58.741030+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -398,7 +396,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-30T11:43:11.132935+00:00",
+      "last_updated": "2026-05-30T11:43:58.462903+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -534,7 +532,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-30T11:43:11.361585+00:00",
+      "last_updated": "2026-05-30T11:43:58.510233+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -670,7 +668,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-05-30T11:43:11.523038+00:00",
+      "last_updated": "2026-05-30T11:43:58.761176+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
